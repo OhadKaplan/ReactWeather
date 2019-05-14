@@ -24852,7 +24852,6 @@
 
 	var React = __webpack_require__(1);
 	var Navigation = __webpack_require__(217);
-
 	var Main = function Main(props) {
 	    return React.createElement(
 	        'div',
