@@ -16,7 +16,7 @@ var About = (props)=>{
     return(
         <div>
             <hr/>
-            <h3>About Component</h3>
+            <h3>About</h3>
         </div>
     
     );

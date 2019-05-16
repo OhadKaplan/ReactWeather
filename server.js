@@ -7,7 +7,7 @@ var express = require('express');
 var app = express();
 const PORT = process.env.PORT || 3000;
 
-console.log("1 ");
+
 
 app.use(function (req, res, next){
     if(req.protocol==='http' ){
@@ -17,7 +17,7 @@ app.use(function (req, res, next){
     }
 });
 
-console.log("3");
+
 app.use(express.static('public'));
 
 app.listen(PORT, function (){

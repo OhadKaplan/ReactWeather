@@ -26664,7 +26664,7 @@
 	        React.createElement(
 	            'h3',
 	            null,
-	            'About Component'
+	            'About'
 	        )
 	    );
 	};
@@ -26699,7 +26699,7 @@
 	        React.createElement(
 	            'h3',
 	            null,
-	            'Examples Component!!'
+	            'Examples'
 	        ),
 	        React.createElement(
 	            'p',
